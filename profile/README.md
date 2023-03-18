@@ -6,4 +6,9 @@
   <img width="600" height="200" src="https://github.com/DA2D1E-B2-IES-Clara-del-Rey/.github/blob/main/profile/img/front.png">
 </p>
 
+### Tópicos principales del trimestre
+
+:point_right: `HTML, CSS y JS` - `Bootstrap`
+- 
+
 🧙 Todo el poderío de `GitHub` en sus README.md viene de [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - [`+ info - sólo participantes del grupo`](https://github.com/DA2D1E-B2-IES-Clara-del-Rey/markdown)
