@@ -1,2 +1,3 @@
 /_aux
 *.code-workspace
+*.Rmarkdown
